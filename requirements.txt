@@ -5,7 +5,7 @@ backports.functools-lru-cache==1.6.1
 blinker==1.4
 brotlipy==0.7.0
 cachetools==4.1.1
-certifi==2020.6.20
+certifi==2023.7.22
 
 chardet==3.0.4
 click==7.1.2
@@ -18,39 +18,39 @@ decorator==4.4.2
 efficientnet-pytorch==0.7.0
 faiss-cpu==1.6.3
 filelock==3.0.12
-future==0.18.2
+future==0.18.3
 gdown==3.12.2
 google-auth==1.21.2
 google-auth-oauthlib==0.4.1
 
 h5py==2.10.0
-idna==2.10
+idna==3.7
 
 imgaug==0.4.0
 importlib-metadata==1.7.0
-ipython==5.8.0
+ipython==8.10.0
 ipython-genutils==0.2.0
-joblib==0.16.0
+joblib==1.2.0
 
 Markdown==3.2.2
 
 mmcv==1.1.5
 
-numpy==1.18.0
+numpy==1.22.0
 oauthlib==3.0.1
 olefile==0.46
 opencv-python==4.4.0.44
 pandas==1.2.3
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.2.0
+Pillow==10.3.0
 prompt-toolkit==1.0.15
-protobuf==3.13.0
+protobuf==3.18.3
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 PySocks==1.7.1
@@ -58,11 +58,11 @@ python-dateutil==2.8.1
 pytorch-ignite==0.1.2
 
 PyYAML==5.3.1
-requests==2.24.0
+requests==2.32.2
 
-rsa==4.6
+rsa==4.7
 scikit-image==0.16.2
-scikit-learn==0.23.2
+scikit-learn==1.5.0
 scipy==1.2.0
 
 simplegeneric==0.8.1
@@ -75,14 +75,14 @@ termcolor==1.1.0
 threadpoolctl==2.1.0
 timm==0.3.4
 
-torch==1.6.0
+torch==1.13.1
 torchvision==0.7.0
 
-tqdm==4.49.0
+tqdm==4.66.3
 traitlets==4.3.3
-urllib3==1.25.10
+urllib3==1.26.19
 
-Werkzeug==1.0.1
+Werkzeug==3.0.3
 visdom==0.1.8.9
 
 yacs==0.1.8
